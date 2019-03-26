@@ -15,7 +15,7 @@ First install dependencies
 $ pip3 install -r requrements.txt
 ```
 
-Then check to check an individual password just pass in your password:
+Then to check an individual password just pass in your password:
 
 ```bash
 $ python3 main.py password
