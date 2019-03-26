@@ -32,3 +32,9 @@ $ python3 main.py --lastpass export.csv
 
 ![export](export.png)
 
+
+## Get lastpass export file
+
+You can get the csv file for the export by going to lastpass -> More Options -> Advanced -> Export
+
+![lastpass](lastpass.png)
