@@ -21,7 +21,7 @@ Then check to check an individual password just pass in your password:
 $ python3 main.py password
 ```
 
-![lookup][lookup.png]
+![lookup](lookup.png)
 
 Or to check a lastpass export csv file
 
@@ -30,5 +30,5 @@ $ python3 main.py --lastpass export.csv
 ```
 
 
-![export][export.png]
+![export](export.png)
 
