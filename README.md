@@ -10,6 +10,7 @@ First install dependencies
 
 ```bash
 $ pip3 install -r requrements.txt
+
 ```
 To check a lastpass export csv file
 
@@ -20,10 +21,10 @@ $ python3 main.py --lastpass export.csv
 ![export](export.png)
 
 
-Or check to check an individual password just enter your password
+Or check to check an individual password just enter your password in the secure prompt
 
 ```bash
-$ python3 main.py password
+$ python3 main.py --password
 ```
 
 ![lookup](lookup.png)
