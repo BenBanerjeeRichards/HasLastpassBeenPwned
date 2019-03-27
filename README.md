@@ -15,7 +15,7 @@ $ pip3 install -r requrements.txt
 To check a lastpass export csv file
 
 ```bash
-$ python3 main.py --lastpass export.csv
+$ python3 lpcheck.py --lastpass export.csv
 ```
 
 ![export](export.png)
@@ -24,7 +24,7 @@ $ python3 main.py --lastpass export.csv
 Or check to check an individual password just enter your password in the secure prompt
 
 ```bash
-$ python3 main.py --password
+$ python3 lpcheck.py --password
 ```
 
 ![lookup](lookup.png)
